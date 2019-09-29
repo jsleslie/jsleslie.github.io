@@ -1,4 +1,7 @@
-# Topic: Geovisualization
+---
+layout: post
+title: Geovisualization
+---# 
 
 Consider building a pizza from scratch. Every pizza starts with a base of crust. Added to this are a variety of layers including tomato sauce, cheese, and any number of meat and vegetable toppings. Of the range of available options, a pizza can be customized to match the tastes of each customer. In the same way that a pizza is the final product of a combination of many layers, geovisualization starts with a base map and combines many forms of geographical and social data. 
 
